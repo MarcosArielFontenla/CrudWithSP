@@ -1,0 +1,10 @@
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\bin\Debug\CrudWithSP.exe.config
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\bin\Debug\CrudWithSP.exe
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\bin\Debug\CrudWithSP.pdb
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\obj\Debug\CrudWithSP.csproj.AssemblyReference.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\obj\Debug\CrudWithSP.frmEmployee.resources
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\obj\Debug\CrudWithSP.Properties.Resources.resources
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\obj\Debug\CrudWithSP.csproj.GenerateResource.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\obj\Debug\CrudWithSP.csproj.CoreCompileInputs.cache
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\obj\Debug\CrudWithSP.exe
+C:\Users\Recursiva\Documents\Projects\CsharpPractices\DesktopTest\CrudWithSP\CrudWithSP\CrudWithSP\obj\Debug\CrudWithSP.pdb
